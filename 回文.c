@@ -1,4 +1,4 @@
-//»ØÎÄ
+//å›æ–‡
 #include <stdio.h>
 #include <string.h>
 
@@ -23,4 +23,5 @@ int main(void)
     printf("true");
     
     return 0;
+
 }
