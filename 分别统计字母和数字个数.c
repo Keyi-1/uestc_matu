@@ -1,9 +1,9 @@
-//·Ö±ğÍ³¼Æ×ÖÄ¸ºÍÊı×Ö¸öÊı
+//åˆ†åˆ«ç»Ÿè®¡å­—æ¯å’Œæ•°å­—ä¸ªæ•°
 #include <stdio.h>
 int main(void)
 {
     char string;
-    int num_a=0,num_1=0;//num_a±íÊ¾×ÖÄ¸¸öÊı£¬num_1±íÊ¾Êı×Ö¸öÊı
+    int num_a=0,num_1=0;//num_aè¡¨ç¤ºå­—æ¯ä¸ªæ•°ï¼Œnum_1è¡¨ç¤ºæ•°å­—ä¸ªæ•°
     
     while((string=getchar())!='\n')
     {
