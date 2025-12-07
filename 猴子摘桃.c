@@ -1,4 +1,4 @@
-//ºï×ÓÕªÌÒ
+//çŒ´å­æ‘˜æ¡ƒ
 #include <stdio.h>
 
 int number_of_peach(int day);
@@ -27,3 +27,4 @@ int number_of_peach(int day)
     else
         return((number_of_peach(day+1)+1)*2);
 }
+
